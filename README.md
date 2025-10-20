@@ -1,25 +1,18 @@
+# Mystic Mirror Minecraft Mod
+Initial release of Mystic Mirror mod for Minecraft 1.21.1 NeoForge 21.1.210
+# ✨Features
 
-Installation information
-=======
+- The **Mystic Mirror** item which on use teleports the player to either their respawn point (bed) or the world spawn point (if no respawn point exists)
+- Crafted with 4 iron ingots and 1 diamond <br/>
+<img width="367" height="203" alt="2025-10-20_14 14 46" src="https://github.com/user-attachments/assets/35632878-1879-4e96-b6d0-dd72b0ceda0a" alt="screenshot of crafting recipe" /><br/>
+- Repairable in an anvil by either combining with **diamonds** or another **Mystic Mirror**<br/><img width="478" height="186" alt="2025-10-20_14 15 14" src="https://github.com/user-attachments/assets/2305be1b-3cd5-429b-94d0-cc9c77d1d1b5" /><img width="476" height="187" alt="2025-10-20_14 15 25" src="https://github.com/user-attachments/assets/e246b74e-d250-4ecd-8c8e-5265f4bc91d6" />
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+# 📦Installation
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+- Download the **.jar** file below
+- Place it into your  Minecraft "**mods**" folder 
+- Launch with NeoForge 21.1.210
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+## Note
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
-
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+- Mod might be compatible with other NeoForge versions, however it was designed for 21.1.210
