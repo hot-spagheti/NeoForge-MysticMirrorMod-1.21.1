@@ -9,7 +9,7 @@ Initial release of Mystic Mirror mod for Minecraft 1.21.1 NeoForge 21.1.210
 
 # 📦Installation
 
-- Download the **.jar** file below
+- Download the **.jar** file from the latest Release
 - Place it into your  Minecraft "**mods**" folder 
 - Launch with NeoForge 21.1.210
 
